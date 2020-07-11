@@ -1,0 +1,7 @@
+77777777 Olivia Lucas 1970 F olucas@gmail.com John Doe 2016/10/12 72.4 167.0 1 A 0 A
+66666666 Jake Thompson 1998 M jthompson@gmail.com John Doe 2015/08/19 93.0 168.0 1 B A B
+55555555 Madison Harper 1963 F mharper@gmail.com Jane Doe 2014/02/12 77.0 173.0 1 0 B C
+44444444 Colleen Fryer 1968 F cfryer@gmail.com Jane Doe 2008/02/12 96.3 158.0 0 A B A
+33333333 Richard Newman 1995 M rnewman@gmail.com John Doe 2017/02/02 74.0 175.0 1 A 0 A
+22222222 Mark Norris 1977 M mnorris@gmail.com Jane Doe 2016/02/14 85.5 180.0 0 0 A C
+11111111 Joe Hall 1958 M jhall@gmail.com Jane Doe 2017/02/12 78.0 170.2 0 B B B
